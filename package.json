@@ -1,0 +1,16 @@
+{
+  "name": "titan-jwt",
+  "version": "0.1.0",
+  "description": "Titan - JWT module",
+  "main": "lib/index.js",
+  "author": "Benjamin HAMON <benjamin@hamon.sh>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bhamon/titan-jwt.git"
+  },
+  "dependencies": {
+    "extend": "^3.0.2",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
