@@ -1,6 +1,6 @@
 {
   "name": "titan-jwt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Titan - JWT module",
   "main": "lib/index.js",
   "author": "Benjamin HAMON <benjamin@hamon.sh>",
